@@ -18,8 +18,8 @@ namespace SpeedCamera
             Console.WriteLine("Ok");
         else
         {
-            const int kmPerDemeritPoint = 5;
-            var demeritPoints = (carSpeed - speedLimit)/kmPerDemeritPoint;
+            const int mphPerDemeritPoint = 5;
+            var demeritPoints = (carSpeed - speedLimit)/mphPerDemeritPoint;
 
             if (demeritPoints > 12)
                 Console.WriteLine("Your License Has Been Suspended");
