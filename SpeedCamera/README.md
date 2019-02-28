@@ -1,4 +1,4 @@
-#Speed Camera
+# Speed Camera
 
 This is a program for a very simple and trusting speed camera focused purely on the logic.
 This program will ask the user to enter the speed limit.
