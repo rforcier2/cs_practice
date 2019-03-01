@@ -1,10 +1,11 @@
 # C# Practice
-Introduction to csharp practice folders / files to demonstrate basic understanding of csharp concepts
+Programs I have written to practice C#.
+These programs demonstrate basic understanding of C# concepts
 
 Folder Layout:
 ```cs
-FolderNameOfLesson
+NameOfLesson
   |> Program.cs (Main file to run)
-  |> README.md (Description of Program Functionality) 
+  |> README.md (Description of Porblem Solved Using Program) 
 ```
 
