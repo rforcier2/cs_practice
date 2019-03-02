@@ -38,9 +38,9 @@ namespace ArraysAndLists
             Console.WriteLine();
             while (true)
             {
-                var nameInput = Console.ReadLine();
-
+                
                 Console.Write("Type a name to add (or ENTER to quit): ");
+                var nameInput = Console.ReadLine();
 
                 if (String.IsNullOrWhiteSpace(nameInput))
                     break;
