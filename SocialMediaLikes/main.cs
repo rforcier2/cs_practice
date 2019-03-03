@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace ArraysAndLists
+namespace SocialMediaLikes
 {
 
     public static class StringExtensions
@@ -38,7 +38,7 @@ namespace ArraysAndLists
             Console.WriteLine();
             while (true)
             {
-                
+
                 Console.Write("Type a name to add (or ENTER to quit): ");
                 var nameInput = Console.ReadLine();
 
